@@ -1,4 +1,4 @@
-# Sign Language Detection with TensorFlow | Python, TensorFlow, PyTorch, OpenCV
+# Sign Language Detection with TensorFlow
 
 ## Overview
 This project involves creating a console-based application that detects and translates sign language gestures into text using Python. The app employs a combination of Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN), trained on a dataset of hand gestures. OpenCV is used for real-time video processing.
